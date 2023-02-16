@@ -1,1 +1,5 @@
-# cli-app_node.js
+- [update](https://ibb.co/Wx8p7Z0)
+- [read](https://ibb.co/sv6JKcK)
+- [getById](https://ibb.co/bm6pCMC)
+- [add](https://ibb.co/fCdb8dM)
+- [remove](https://ibb.co/dgR955h)

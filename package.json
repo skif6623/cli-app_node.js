@@ -1,0 +1,29 @@
+{
+	"name": "cli-app_node",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index",
+		"dev": "nodemon index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/skif6623/cli-app_node.js.git"
+	},
+	"author": "Roman Tunkiv <romanskif1994@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/skif6623/cli-app_node.js/issues"
+	},
+	"homepage": "https://github.com/skif6623/cli-app_node.js#readme",
+	"dependencies": {
+		"commander": "^10.0.0",
+		"nanoid": "3.3.4",
+		"yargs": "^17.6.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}
